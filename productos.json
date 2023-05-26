@@ -1,0 +1,109 @@
+[
+    {
+        "id": "ropa-01",
+        "titulo": "Remera ",
+        "imagen": "./productos-.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "ropa"
+        },
+        "precio": 4500
+    },
+
+    {
+        "id": "ropa-02",
+        "titulo": "Remera ",
+        "imagen": "./remera-03.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "ropa"
+        },
+        "precio": 4850
+    },
+
+    {
+        "id": "ropa-03",
+        "titulo": "short ",
+        "imagen": "./short-03.jpg",
+        "categoria": {
+            "nombre": "short",
+            "id": "ropa"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "ropa-04",
+        "titulo": "jeans ",
+        "imagen": "./jeans-03.jfif",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "ropa"
+        },
+        "precio": 19000
+    },
+    {
+        "id": "ropa-04",
+        "titulo": "short ",
+        "imagen": "./short-01.jpg",
+        "categoria": {
+            "nombre": "short",
+            "id": "ropa"
+        },
+        "precio": 6650
+    }, {
+        "id": "ropa-05",
+        "titulo": "short ",
+        "imagen": "./short-02.jpg",
+        "categoria": {
+            "nombre": "short",
+            "id": "ropa"
+        },
+        "precio": 14200
+    },
+
+
+    {
+        "id": "ropa-06",
+        "titulo": "jeans ",
+        "imagen": "./jeans-01.jfif",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "ropa"
+        },
+        "precio": 9000
+    },
+
+
+    {
+        "id": "ropa-07",
+        "titulo": "Remera ",
+        "imagen": "./remera-02.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "ropa"
+        },
+        "precio": 3900
+    },
+
+
+    {
+        "id": "ropa-08",
+        "titulo": "Remera ",
+        "imagen": "./remera-01.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "ropa"
+        },
+        "precio": 6300
+    },
+    {
+        "id": "ropa-06",
+        "titulo": "jeans ",
+        "imagen": "./jeans-02.jfif",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "ropa"
+        },
+        "precio": 23000
+    }
+]

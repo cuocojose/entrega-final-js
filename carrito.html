@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="contenedor">
+        <header>
+            <div>
+                <img src="./img/logo.png" alt="">
+            </div>
+            <div>
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="./index.html">Inicio</a>
+
+                            <a href="./pages/contacto.html"><img src="./img/a.png" alt=""></a>
+
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <main>
+            <div class="contenedor-carrito">
+                <p id="carrito-vacio" class="carrito-vacio"><i class="bi bi-emoji-frown"></i></p>
+
+                <div id="carrito-productos" class="carrito-productos disabled">
+                    <!-- Esto se va a completar con el JS -->
+                </div>
+
+                <div id="carrito-acciones" class="carrito-acciones disabled">
+                    <div class="carrito-acciones-izquierda">
+                        <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
+                    </div>
+                    <div class="carrito-acciones-derecha">
+                        <div class="carrito-acciones-total">
+                            <p>Total:</p>
+                            <p id="total"></p>
+                            
+                        </div>
+                        <button id="carrito-acciones-comprar" class="carrito-acciones-comprar">Comprar ahora</button>
+                    </div>
+                </div>
+
+                <p id="carrito-comprado" class="carrito-comprado disabled"><i class="bi bi-emoji-laughing"></i></p>
+
+            </div>
+        </main>
+    </div>
+
+        </main>
+        <footer>
+            <div class="redes">
+                <a href="https://web.whatsapp.com/" target="_blank"><img src="./img/whatssap.png"
+                        alt="logo-whatssap"></img></a>
+                <a href="https://www.instagram.com/" target="_blank"><img src="./img/intagram.png"
+                        alt="logo-instagram"></img></a>
+                <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWPLTZtCLpspPMbRkFfDLkrbnJTHQgqjlmLTLLjQNgpMnWNdDHHdcpgtrmZFdTbhtcxfg"
+                    target="_blank"><img src="./img/correo.png" alt="logo-correo"></img></a>
+
+        </footer>
+
+</body>
+
+</html>
+<script src="./js/carrito.js"></script>
+<script src="./js/newdiv.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "espress": "^0.0.0",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "name": "productos",
+  "version": "1.0.0",
+  "description": "proyecto final de javascript",
+  "main": "newdiv.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuocojose/primera-pre-entrega-javascript.git"
+  },
+  "keywords": [
+    "carrito",
+    "compras"
+  ],
+  "author": "jose cuoco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuocojose/primera-pre-entrega-javascript/issues"
+  },
+  "homepage": "https://github.com/cuocojose/primera-pre-entrega-javascript#readme"
+}
